@@ -1,0 +1,23 @@
+--- noiseEstimate=10 ---
+scaleMod=59 slots=512 batches=1 tscale=1
+exact e: 512/512  RMS=0.0103  max=0.0341
+--- noiseEstimate=20 ---
+scaleMod=59 slots=512 batches=1 tscale=1
+exact e: 512/512  RMS=0.0139  max=0.0499
+--- noiseEstimate=28 ---
+scaleMod=59 slots=512 batches=1 tscale=1
+exact e: 512/512  RMS=0.0103  max=0.0338
+--- noiseEstimate=32 ---
+scaleMod=59 slots=512 batches=1 tscale=1
+exact e: 512/512  RMS=0.0120  max=0.0507
+--- noiseEstimate=35 ---
+scaleMod=59 slots=512 batches=1 tscale=1
+exact e: 512/512  RMS=0.0114  max=0.0489
+--- noiseEstimate=38 ---
+scaleMod=59 slots=512 batches=1 tscale=1
+exact e: 512/512  RMS=0.0114  max=0.0496
+--- noiseEstimate=39 ---
+scaleMod=59 slots=512 batches=1 tscale=1
+exact e: 512/512  RMS=0.0103  max=0.0492
+--- noiseEstimate=40 ---
+Precision of less than 3 bits is not supported. logstd 16.792481 + noiseEstimate 40.000000 must be 56 or less.

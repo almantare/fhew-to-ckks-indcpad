@@ -1,0 +1,12 @@
+  slot00 e_true=   0  e_est=  -0.0020  err=-0.0020
+  slot01 e_true=  -1  e_est=  -0.9991  err=+0.0009
+  slot02 e_true=   2  e_est=   2.0056  err=+0.0056
+  slot03 e_true=   0  e_est=   0.0039  err=+0.0039
+  slot04 e_true=   5  e_est=   4.9899  err=-0.0101
+  slot05 e_true=   1  e_est=   0.9908  err=-0.0092
+  slot06 e_true=   1  e_est=   1.0063  err=+0.0063
+  slot07 e_true=  -4  e_est=  -3.9988  err=+0.0012
+
+scaleMod=59 slots=512 batches=1 tscale=1
+DECRYPTION QUERIES USED: 1   equations: 512 (need n=1305)
+exact e: 512/512  RMS=0.0097  max=0.0336

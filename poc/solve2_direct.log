@@ -1,0 +1,10 @@
+equations=1536 n=1305  (load 0.3s)
+rank over GF(2)=1305  pivot rows found=1305  (0.8s)
+built GF(2) inverse  (5.2s)
+  hensel bit 0  (5.5s)
+  hensel bit 7  (7.8s)
+  hensel bit 14  (10.2s)
+  hensel bit 21  (12.6s)
+RECOVERED matches truth on 1305/1305 coords -> FULL KEY RECOVERY
+equations satisfied: 1536/1536   total 14.8s
+EXIT=0

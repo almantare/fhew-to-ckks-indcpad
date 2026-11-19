@@ -1,0 +1,12 @@
+scaleModSize=59 n=1305 Delta=1048576
+(1) a=0 calibration: delta (offset) = -16.4182
+(2) fixed ct e_true=-1  run1=-1.03338 run2=-1.03337 (repeatable if equal)
+   ct0 e_true=   0 e_est=  -0.060 err=-0.060
+   ct1 e_true=   5 e_est=   4.954 err=-0.046
+   ct2 e_true=   6 e_est=   5.926 err=-0.074
+   ct3 e_true=   2 e_est=   1.960 err=-0.040
+   ct4 e_true=   2 e_est=   1.957 err=-0.043
+   ct5 e_true=  -1 e_est=  -1.037 err=-0.037
+   ct6 e_true=   4 e_est=   3.968 err=-0.032
+   ct7 e_true=  -1 e_est=  -1.032 err=-0.032
+(3) after calibration: RMS=0.048 max=0.074

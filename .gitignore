@@ -1,0 +1,21 @@
+# build artifacts
+poc/build/
+*.o
+*.olean
+
+# regenerable PoC outputs (produced by attack/direct; large)
+equations.csv
+secret.csv
+
+# machine-local Lean config (copy from .leanpath.example)
+lean/.leanpath
+
+# LaTeX aux
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+
+# OS
+.DS_Store

@@ -1,0 +1,4 @@
+scaleMod=59 tscale=1 flood=1024.0 tag=1 eff=1024 reps=1 : exact_e=0/40  RMS=103.105  max=221.848
+scaleMod=59 tscale=64 flood=1024.0 tag=1 eff=65536 reps=1 : exact_e=0/40  RMS=136.740  max=283.184
+scaleMod=59 tscale=1024 flood=1024.0 tag=1 eff=1048576 reps=1 : exact_e=0/40  RMS=1200.207  max=6608.610
+scaleMod=59 tscale=1024 flood=1024.0 tag=1 eff=1048576 reps=1 : exact_e=0/40  RMS=654.030  max=2898.159

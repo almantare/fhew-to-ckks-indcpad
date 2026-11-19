@@ -1,0 +1,15 @@
+n=1305 pLWE=256 Q=2^28 Delta=1048576  (LWE dim from GetA: see below)
+GetA().GetLength()=1305  (vs Getn()=1305)
+
+  m   e_true    output      output/m?   (phase=Delta*m+e)
+  0        0       0.000000   -
+  1        3       0.999902   == m  (MESSAGE)
+  2        0       1.999197   == m  (MESSAGE)
+  3       -1       2.997289   == m  (MESSAGE)
+  4        0       3.993578   == m  (MESSAGE)
+  5       -1       4.987459   == m  (MESSAGE)
+  6        4       5.978341   == m  (MESSAGE)
+  7        2       6.965616   == m  (MESSAGE)
+
+sanity: native FHEW decryption of each ct
+  0 1 2 3 4 5 6 7 

@@ -1,0 +1,9 @@
+scaleMod=50 slots=512 batches=1 tscale=64
+DECRYPTION QUERIES USED: 1   equations: 512 (need n=1305)
+exact e: 473/512  RMS=0.2381  max=0.8603
+scaleMod=50 slots=512 batches=1 tscale=256
+DECRYPTION QUERIES USED: 1   equations: 512 (need n=1305)
+exact e: 512/512  RMS=0.0408  max=0.2142
+scaleMod=50 slots=512 batches=1 tscale=1024
+DECRYPTION QUERIES USED: 1   equations: 512 (need n=1305)
+exact e: 512/512  RMS=0.0146  max=0.0541

@@ -1,0 +1,6 @@
+LWE dimension n = 1305
+ONE decryption query on GetSwkFC():
+  coordinates recovered exactly : 1305 / 1305
+  max |recovered - true|        : 2.149e-13
+  first 12 recovered / true     : +1/+1 -1/-1 +1/+1 +0/+0 +1/+1 -1/-1 -0/+0 -1/-1 +0/+0 -0/+0 -0/+0 +1/+1 
+=> FULL KEY RECOVERY IN ONE QUERY
